@@ -1,2 +1,3 @@
-worker: {start_command}
-web: python main.py
+worker: python main.py
+
+
